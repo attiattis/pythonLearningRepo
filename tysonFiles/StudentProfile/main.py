@@ -28,6 +28,7 @@ def saveStudentsToDatabase(studentList):
     return pressAnyKey()
 def main():
     while True:
+        # TODO : need to define these methods
         displayMenu()
         choice = input("Enter your choice: ")
         
