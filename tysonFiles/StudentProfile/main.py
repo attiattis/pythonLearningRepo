@@ -26,6 +26,8 @@ def saveStudentsToDatabase(studentList):
 
     print("Student data saved successfully!")
     return pressAnyKey()
+
+# define the menu methods
 def main():
     while True:
         # TODO : need to define these methods
